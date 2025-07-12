@@ -7,3 +7,4 @@ Skills Demonstrated:
 - practice git commands 
 - get the hang of making commits after each unit of work done
 - utilize the command line interface instead of relying on GUI 
+- practice css styling 
